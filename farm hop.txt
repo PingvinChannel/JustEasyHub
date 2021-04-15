@@ -1,5 +1,0 @@
-getgenv().Target = "Civilian"
-getgenv().SellContribution = false
-getgenv().ServerHopTimer = 75
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IceDrask/Scripts/main/Wisteria"))()
